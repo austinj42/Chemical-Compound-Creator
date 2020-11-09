@@ -23,12 +23,14 @@ public class Compound {
 		}
 	}
 	
+	//Prints all Compounds
 	public void printMap() {
 		for (String name: compoundElementCounts.keySet()){
 			System.out.println(name + compoundElementCounts.get(name));
 		} 
 	}
 	
+	//Used to add new compounds to the hashmap that stores compounds
 	private void splitString(String s) {
 		String temp = "";
 		for(int i = 0; i < s.length(); i ++) {
