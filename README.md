@@ -1,12 +1,6 @@
 # Chemical-Compound-Creator
 Program to allow users to create a list of chemical compounds.
 
-****************************************
-This is still a work in progress
-****************************************
-
-To run, use the Main.java class in the index folder.
-
 This program allows users to create a chemical compounds. 
 It is used through a GUI which displays all elements that can be
 used to create these compounds. The elements can be sorted based on
