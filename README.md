@@ -7,7 +7,7 @@ used to create these compounds. The elements can be sorted based on
 A few different constraints (Atomic number, different states)
 
 To add a new compound, users input the name of the compound, and
-the compound's chemical formula. To input a formula that cotains elements
+the compound's chemical formula. To input a formula that contains elements
 that only appear once the user must include a 1 after that element.
 For example:
 Name:     Water
