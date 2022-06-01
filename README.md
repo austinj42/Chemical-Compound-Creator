@@ -1,5 +1,5 @@
 # Chemical-Compound-Creator
-Program to allow user's to create a list of chemical compounds.
+Program to allow users to create a list of chemical compounds.
 
 ****************************************
 This is still a work in progress
